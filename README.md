@@ -20,22 +20,9 @@ With this tutorial, u'll be able to start with **Flask** Development.
 <summary>Click to expand</summary>
 
 - [About](#about)
-- [Git](#learn-git-version-control-tools-)
-- [Usage](#usage)
-  * [API](#api)
-  * [Configuration Options](#configuration-options)
-- [CLI Usage](#cli-usage)
-- [Transforms](#transforms)
-  * [CODE](#code)
-  * [REMOTE](#remote)
-  * [TOC](#toc)
-- [Running Async transforms](#running-async-transforms)
-- [🔌 Third Party Plugins](#%F0%9F%94%8C-third-party-plugins)
-- [Adding Custom Transforms](#adding-custom-transforms)
-- [Plugin Example](#plugin-example)
-- [Other usage examples](#other-usage-examples)
-- [Custom Transform Demo](#custom-transform-demo)
-- [Prior Art](#prior-art)
+- [Learn Git](#learn-git-version-control-tools-)
+- [Creating Virtual Environment](#creating-virtual-environment--wiki---virtual-env)
+- [Install Requirements.txt](#install-python-requirements-wiki---requirements)
 - [License](#license)
 
 </details>
@@ -132,10 +119,37 @@ $ git config --global credential.helper wincred
 </details>
 
 
-## Creating Virtual Environment : [Wiki - Virtual Env](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Virtual-Env)
+## Creating Virtual Environment
+You must have Python 3 and PIP installed on your system.
 
-## Install Python Requirements [Wiki - Requirements](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Requirements)
+Go into project root and create venv :
+``` shell
+$ python3 -m venv .venv 
+```
 
+Activate Virtualenv :
+``` shell
+$ source .venv/bin/activate
+```
+
+Deactivate Virtualenv :
+``` shell
+$ deactivate
+```
+
+
+## Install Python Requirements
+Remember to activate virtualenv directory or all python requirements will be installed
+into global environment and not only into your project.
+
+``` shell
+$ pip install -r requirements.txt
+```
+
+If you need to add/update all python dependencies to requirements.txt
+``` shell
+$ pip freeze > requirements.txt
+```
 
 ## License
 
