@@ -20,7 +20,7 @@ With this tutorial, u'll be able to start with **Flask** Development.
 <summary>Click to expand</summary>
 
 - [About](#about)
-- [Git](#Learn-Git-(Version-Control-Tools))
+- [Git](#learn-git-version-control-tools-)
 - [Usage](#usage)
   * [API](#api)
   * [Configuration Options](#configuration-options)
