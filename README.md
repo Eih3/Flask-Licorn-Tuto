@@ -13,7 +13,35 @@ With this tutorial, u'll be able to start with **Flask** Development.
 
 ## Let's start !
 **Feel free to check the [Wiki Page](https://github.com/Eih3/Flask-Licorn-Tuto/wiki) of this tutorial.**
-<img align="right" width="100" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
+
+## Table of Contents
+<!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
+<details>
+<summary>Click to expand</summary>
+
+- [About](#about)
+- [Install](#install)
+- [Usage](#usage)
+  * [API](#api)
+  * [Configuration Options](#configuration-options)
+- [CLI Usage](#cli-usage)
+- [Transforms](#transforms)
+  * [CODE](#code)
+  * [REMOTE](#remote)
+  * [TOC](#toc)
+- [Running Async transforms](#running-async-transforms)
+- [🔌 Third Party Plugins](#%F0%9F%94%8C-third-party-plugins)
+- [Adding Custom Transforms](#adding-custom-transforms)
+- [Plugin Example](#plugin-example)
+- [Other usage examples](#other-usage-examples)
+- [Custom Transform Demo](#custom-transform-demo)
+- [Prior Art](#prior-art)
+- [License](#license)
+
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
+
+
 ### Learn Git (Version Control Tools) : 
 First, if you want to improve yourself with **Git**, check this [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
 
