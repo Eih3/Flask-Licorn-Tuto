@@ -16,12 +16,12 @@ With this tutorial, u'll be able to start with **Flask** Development.
 
 ## Table of Contents
 - [About](#about)
-- [Learn Git](#learn-git-version-control-tools-)
+- [Learn Git](#learn-git-version-control-tools)
 - [Creating Virtual Environment](#creating-virtual-environment)
 - [Install Requirements.txt](#install-python-requirements)
 - [License](#license)
 
-## Learn Git (Version Control Tools) : 
+## Learn Git (Version Control Tools) 
 You must have Git installed on your system.
 <details>
 <summary>Show Git Commands</summary>
