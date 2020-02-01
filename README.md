@@ -3,9 +3,10 @@
 Flask Licorn - Tuto Version
 ===========================
 Ready to become a genius with **Flask** ?
-<img align="right" width="150" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
 
 ## About
+<img align="right" width="150" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
+
 I'm Michel, Full-Stack Dev. I would like to share with you some of **Flask** stuffs.
 
 With this tutorial, u'll be able to start with **Flask** Development.
