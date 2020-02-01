@@ -1,9 +1,7 @@
-<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
+<img align="right" width="100" src="https://lh3.googleusercontent.com/proxy/21-A-tn6Jb66tns9zQ8ST6RDjgTVitrm6RzhljE4YZB9Dya3C6LDyZX7kWJgXyv9W7GtMpIKgc6fmhaas-cIf5bVlO9pf3I8VwkTnbo3GyaK2s9zRqBhpTDsQz_918MVyIdOvl6hwHh6biun9cLhJcUY5yqHn8XaSuIJKAVKuIVmJQhKT-jVHCwwKcDIz-jaMqLdKDR7eSxBINDgjQ">
 
-:rainbow: Flask Licorn - Tuto Version
+Flask Licorn - Tuto Version
 ===========================
-
-
 
 
 I'm Michel, Full-Stack Dev. I would like to share with you some of **Flask** stuffs.
