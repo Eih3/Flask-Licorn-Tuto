@@ -24,9 +24,15 @@ $ git config --global user.email "your@email.com"
 
 ### Git Clone 
 Clone remote github project into a local directory
-
 ``` shell
 $ git clone https://github.com/Eih3/Flask-Licorn-Tuto.git
+```
+
+### Git Status
+To check the status of files you’ve changed in your working directory, 
+i.e, what all has changed since your last commit.
+``` shell
+$ git status
 ```
 
 ## Creating Virtualenv with Python3
