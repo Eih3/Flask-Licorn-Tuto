@@ -10,15 +10,5 @@ With this tutorial, u'll be able to start with **Flask** Development.
 ## Git commands : [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
 
 ## Creating Virtual Environment : [Wiki - Virtual Env](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Virtual-Env)
-## Installing Python Requirements
-Remember to activate virtualenv directory or all python requirements will be installed
-into global environment and not only into your project.
 
-``` shell
-$ pip install -r requirements.txt
-```
-
-If you need to add/update all python dependencies to requirements.txt
-``` shell
-$ pip freeze > requirements.txt
-```
+## Install Python Requirements [Wiki - Requirements](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Requirements)
