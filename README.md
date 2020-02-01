@@ -19,10 +19,15 @@ Deactivate Virtualenv :
 $ deactivate
 ```
 
-## Installing Python Requierements
+## Installing Python Requirements
 Remember to activate virtualenv directory or all python requirements will be installed
 into global environment and not only into your project
 
 ``` shell
-$ pip install -r requierements.txt
+$ pip install -r requirements.txt
+```
+
+If you need to add/update all python dependencies to requirements.txt
+``` shell
+$ pip freeze > requirements.txt
 ```
