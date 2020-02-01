@@ -1,26 +1,15 @@
 :rainbow: Flask Licorn - Tuto Version
 ===========================
+Welcome to **Flask Licorn - Tuto Version**
 
-## Git commands [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
+I'm Michel, Full-Stack Dev. I would like to share with you some of **Flask** stuffs.
 
-## Creating Virtualenv with Python3
-You must have Python 3 and PIP installed on your system.
+With this tutorial, u'll be able to start with **Flask** Development.
 
-Go into project root and create venv :
-``` shell
-$ python3 -m venv .venv 
-```
+**Feel free to check the [Wiki Page](https://github.com/Eih3/Flask-Licorn-Tuto/wiki) of this tutorial.**
+## Git commands : [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
 
-Activate Virtualenv :
-``` shell
-$ source .venv/bin/activate
-```
-
-Deactivate Virtualenv :
-``` shell
-$ deactivate
-```
-
+## Creating Virtual Environment : [Wiki - Virtual Env](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Virtual-Env)
 ## Installing Python Requirements
 Remember to activate virtualenv directory or all python requirements will be installed
 into global environment and not only into your project.
