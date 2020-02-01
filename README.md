@@ -42,6 +42,10 @@ Adds changes to stage/index on your working directory.
 ``` shell
 $ git add .
 ```
+or make it more explicit.
+``` shell
+$ git add -p
+```
 
 ### Git Commit
 Commits your changes and sets it to new commit object for the remote project.
