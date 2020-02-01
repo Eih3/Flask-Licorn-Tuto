@@ -1,10 +1,10 @@
 :rainbow: Flask Licorn - Tuto Version
 ===========================
 
-## Learn Git commands
+## Git commands
 You must have Git installed on your system
 
-###Git Config [Username, Email]
+### Git Config [Username, Email]
 Check if Git username is registered :
 ``` shell
 $ git config --global user.name 
@@ -22,7 +22,7 @@ Else set your Git email :
 $ git config --global user.email "your@email.com"
 ```
 
-###Git Clone 
+### Git Clone 
 Clone remote github project into a local directory
 
 ``` shell
