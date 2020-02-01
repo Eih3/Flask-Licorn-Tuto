@@ -20,7 +20,7 @@ With this tutorial, u'll be able to start with **Flask** Development.
 <summary>Click to expand</summary>
 
 - [About](#about)
-- [Learn Git (Version Control Tools)](#Learn Git (Version Control Tools))
+- [Git](#Learn Git (Version Control Tools))
 - [Usage](#usage)
   * [API](#api)
   * [Configuration Options](#configuration-options)
@@ -41,8 +41,6 @@ With this tutorial, u'll be able to start with **Flask** Development.
 </details>
 
 ## Learn Git (Version Control Tools) : 
-First, if you want to improve yourself with **Git**, check this [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
-
 You must have Git installed on your system.
 <details>
 <summary>Show Git Commands</summary>
