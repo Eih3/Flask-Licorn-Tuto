@@ -11,11 +11,11 @@ I'm Michel, Full-Stack Dev. I would like to share with you some of **Flask** stu
 
 With this tutorial, u'll be able to start with **Flask** Development.
 
+## Let's start !
 **Feel free to check the [Wiki Page](https://github.com/Eih3/Flask-Licorn-Tuto/wiki) of this tutorial.**
 
-
-
 ### Learn Git (Version Control Tools) : 
+<img align="right" width="100" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">
 First, if you want to improve yourself with **Git**, check this [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
 
 ## Creating Virtual Environment : [Wiki - Virtual Env](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Virtual-Env)
