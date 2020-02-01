@@ -2,15 +2,16 @@
 
 Flask Licorn - Tuto Version
 ===========================
+Ready to become a genius with **Flask** ?
+<img align="right" width="150" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
 
-
+## About
 I'm Michel, Full-Stack Dev. I would like to share with you some of **Flask** stuffs.
 
 With this tutorial, u'll be able to start with **Flask** Development.
 
 **Feel free to check the [Wiki Page](https://github.com/Eih3/Flask-Licorn-Tuto/wiki) of this tutorial.**
 
-<img align="right" width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
 
 
 ### Learn Git (Version Control Tools) : 
