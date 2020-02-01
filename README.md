@@ -2,7 +2,7 @@
 
 Flask Licorn - Tuto Version
 ===========================
-Ready to become a genius with **Flask** ?
+✨ Ready to become a genius with **Flask** ? ✨
 
 ## About
 <img align="right" width="150" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
@@ -15,12 +15,12 @@ With this tutorial, u'll be able to start with **Flask** Development.
 **Feel free to check the [Wiki Page](https://github.com/Eih3/Flask-Licorn-Tuto/wiki) of this tutorial.**
 
 ## Table of Contents
-<!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
+
 <details>
 <summary>Click to expand</summary>
 
-- [About](#about)
-- [Install](#install)
+- [Learn Git (Version Control Tools)](#about)
+- [Install](#Learn Git (Version Control Tools))
 - [Usage](#usage)
   * [API](#api)
   * [Configuration Options](#configuration-options)
@@ -39,11 +39,97 @@ With this tutorial, u'll be able to start with **Flask** Development.
 - [License](#license)
 
 </details>
-<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
 
-### Learn Git (Version Control Tools) : 
+## Learn Git (Version Control Tools) : 
 First, if you want to improve yourself with **Git**, check this [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
+
+You must have Git installed on your system.
+
+### Git Config [Username, Email]
+Check if Git username is registered :
+``` shell
+$ git config --global user.name 
+```
+Else set your Git username :
+``` shell
+$ git config --global user.name "your username"
+```
+Check if Git email is registered :
+``` shell
+$ git config --global user.email 
+```
+Else set your Git email :
+``` shell
+$ git config --global user.email "your@email.com"
+```
+
+### Git Clone 
+Clone remote github project into a local directory.
+``` shell
+$ git clone https://github.com/Eih3/Flask-Licorn-Tuto.git
+```
+
+### Git Status
+To check the status of files you’ve changed in your working directory, 
+i.e, what all has changed since your last commit.
+
+Type this command in your working directory. lists out all the files that have been changed.
+``` shell
+$ git status
+```
+
+### Git Add
+Adds changes to stage/index on your working directory.
+``` shell
+$ git add .
+```
+or make it more explicit.
+``` shell
+$ git add -p
+```
+
+### Git Commit
+Commits your changes and sets it to new commit object for the remote project.
+``` shell
+$ git commit -m "commit message"
+```
+
+### Git Push / Pull
+Push or Pull your changes to remote. If you have added and committed your changes and you want to push them. 
+Or if your remote has updated and you want those latest changes.
+``` shell
+$ git push
+```
+
+### Git Branch
+Lists out all the branches of the project.
+``` shell
+$ git branch
+```
+
+### Caching your Github Password in Git terminal
+Bored to always retype Username + Password to Push into remote Github Project ?
+Type this command to cache credentials.
+
+on Linux :
+``` shell
+$ git config --global credential.helper cache
+
+$ git config --global credential.helper 'cache --timeout=3600'
+# Set the cache to timeout after 1 hour (timeout in seconds)
+```
+
+on Mac :
+``` shell
+$ git config --global credential.helper osxkeychain
+# Set git to use the osxkeychain credential helper
+```
+
+on Windows :
+``` shell
+$ git config --global credential.helper wincred
+```
 
 ## Creating Virtual Environment : [Wiki - Virtual Env](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Virtual-Env)
 
