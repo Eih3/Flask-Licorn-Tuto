@@ -19,8 +19,8 @@ With this tutorial, u'll be able to start with **Flask** Development.
 <details>
 <summary>Click to expand</summary>
 
-- [Learn Git (Version Control Tools)](#about)
-- [Install](#Learn Git (Version Control Tools))
+- [About](#about)
+- [Learn Git (Version Control Tools)](#Learn Git (Version Control Tools))
 - [Usage](#usage)
   * [API](#api)
   * [Configuration Options](#configuration-options)
@@ -38,13 +38,14 @@ With this tutorial, u'll be able to start with **Flask** Development.
 - [Prior Art](#prior-art)
 - [License](#license)
 
-</details>
 
 
 ## Learn Git (Version Control Tools) : 
 First, if you want to improve yourself with **Git**, check this [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
 
 You must have Git installed on your system.
+<details>
+<summary>Show Git Commands</summary>
 
 ### Git Config [Username, Email]
 Check if Git username is registered :
@@ -130,6 +131,8 @@ on Windows :
 ``` shell
 $ git config --global credential.helper wincred
 ```
+</details>
+
 
 ## Creating Virtual Environment : [Wiki - Virtual Env](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Virtual-Env)
 
