@@ -15,17 +15,11 @@ With this tutorial, u'll be able to start with **Flask** Development.
 **Feel free to check the [Wiki Page](https://github.com/Eih3/Flask-Licorn-Tuto/wiki) of this tutorial.**
 
 ## Table of Contents
-
-<details>
-<summary>Click to expand</summary>
-
 - [About](#about)
 - [Learn Git](#learn-git-version-control-tools-)
-- [Creating Virtual Environment](#creating-virtual-environment--wiki---virtual-env)
-- [Install Requirements.txt](#install-python-requirements-wiki---requirements)
+- [Creating Virtual Environment](#creating-virtual-environment)
+- [Install Requirements.txt](#install-python-requirements)
 - [License](#license)
-
-</details>
 
 ## Learn Git (Version Control Tools) : 
 You must have Git installed on your system.
