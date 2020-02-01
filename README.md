@@ -38,7 +38,7 @@ With this tutorial, u'll be able to start with **Flask** Development.
 - [Prior Art](#prior-art)
 - [License](#license)
 
-
+</details>
 
 ## Learn Git (Version Control Tools) : 
 First, if you want to improve yourself with **Git**, check this [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
