@@ -10,6 +10,9 @@ With this tutorial, u'll be able to start with **Flask** Development.
 
 **Feel free to check the [Wiki Page](https://github.com/Eih3/Flask-Licorn-Tuto/wiki) of this tutorial.**
 
+<img align="right" width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
+
+
 ### Learn Git (Version Control Tools) : 
 First, if you want to improve yourself with **Git**, check this [Wiki - Git Commands](https://github.com/Eih3/Flask-Licorn-Tuto/wiki/Git-Commands)
 
